@@ -1,0 +1,19 @@
+{
+  "name": "webpage-of-girlfriend",
+  "version": "1.0.0",
+  "description": "A fun and interactive webpage - Do you love me?",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "love",
+    "interactive",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Code With Patel",
+  "license": "MIT"
+}
